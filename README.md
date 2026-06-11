@@ -49,3 +49,4 @@ Phân tích dữ liệu mạng xã hội của TCBS với các yêu cầu sau:
 
 ## Project Files
 - report: [Markdown Report](report/Test_Entry.ipynb)
+- report: [PDF Report](Report_Entry_Test.pdf)
