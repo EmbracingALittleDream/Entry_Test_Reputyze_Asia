@@ -1,4 +1,4 @@
-# Bài test đầu vào của Công ty TNHH Lửa Á Châu (Reputyze Asia) vị trí Data Analysis Social Media Intern
+# Bài test đầu vào của Công ty TNHH Lửa Á Châu (Reputyze Asia) vị trí Social Media Data Analysis Intern
 
 ## Objective
 Phân tích dữ liệu mạng xã hội của TCBS với các yêu cầu sau:
